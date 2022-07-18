@@ -1,7 +1,7 @@
 # leetcode-fizzbuzz-solution
 Solution for LeetCode's FizzBuzz problem
 
-LeetCode Link: https://github.com/soapyigu/LeetCode-Swift
+LeetCode Link: https://leetcode.com/problems/fizz-buzz/
  
 Given an integer n, return a string array answer (1-indexed) where:
 answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
