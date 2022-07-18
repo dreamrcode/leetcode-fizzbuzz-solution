@@ -1,5 +1,5 @@
 # leetcode-fizzbuzz-solution
-Solution for LeetCode's FizzBuzz problem
+Solution for LeetCode's FizzBuzz problem.
 
 LeetCode Link: https://leetcode.com/problems/fizz-buzz/
  
