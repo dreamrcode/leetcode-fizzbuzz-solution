@@ -1,5 +1,5 @@
 /*
- LeetCode Link: https://github.com/soapyigu/LeetCode-Swift
+ LeetCode Link: https://leetcode.com/problems/fizz-buzz/
  
  Given an integer n, return a string array answer (1-indexed) where:
 
